@@ -1,5 +1,6 @@
 # Project_1
 Housing Data Project 1
+Authors: Ryan Williams, Mulugeta Enyew, and Abel Habte
 # High Demand and Low Supply: A Snapshot of DC Housing
 
 ---
